@@ -1,0 +1,2 @@
+mkdir -cria pasta através do terminal 
+rm -rf -deleta a pasta e as patas que estiverem dentro, f significa para não aprarecer confirmação
